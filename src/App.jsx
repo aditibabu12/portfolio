@@ -22,10 +22,10 @@ function App() {
           </div>
         </div>
         <div class="social-icons">
-          <a href="#">
+        <a href="https://github.com/aditibabu125" target="_blank" rel="noopener noreferrer">
             <img class="social-icon" src={githubIcon} alt="github" />
           </a>
-          <a href="#">
+          <a href="https://www.linkedin.com/in/aditi-babu-920444293" target="_blank" rel="noopener noreferrer">
             <img class="social-icon" src={linkedInIcon} alt="github" />
           </a>
         </div>
