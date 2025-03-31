@@ -32,7 +32,7 @@ function App() {
         <div class="description-text">
           I'm a <span class="pink-text-color">sophomore</span> pursuing <span class="pink-text-color">Computer Science</span> at 
           VIT Chennai. With a passion for <span class="pink-text-color">baking</span> and a love for tackling new challenges,
-          I'm always eager to learn, explore, and push my limits!
+          I'm always eager to <span class="pink-text-color">learn, explore, and push my limits!</span>
         </div>
       </div>
     </>
