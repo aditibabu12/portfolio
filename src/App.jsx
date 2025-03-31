@@ -22,17 +22,17 @@ function App() {
           </div>
         </div>
         <div class="social-icons">
-        <a href="https://github.com/aditibabu125" target="_blank" rel="noopener noreferrer">
-            <img class="social-icon" src={githubIcon} alt="github" />
+          <a href="https://github.com/aditibabu125" target="_blank" rel="noopener noreferrer">
+            <img class="social-icon" src={githubIcon} alt="GitHub" />
           </a>
           <a href="https://www.linkedin.com/in/aditi-babu-920444293" target="_blank" rel="noopener noreferrer">
-            <img class="social-icon" src={linkedInIcon} alt="github" />
+            <img class="social-icon" src={linkedInIcon} alt="LinkedIn" />
           </a>
         </div>
         <div class="description-text">
-          I'm a sophomore pursuing <span class="pink-text-color">Computer Science</span> at 
-          VIT Chennai, with a passion for <span class="pink-text-color">baking</span> and a love for tackling new challenges. 
-          I'm always eager to learn, explore and push my limits!
+          I'm a <span class="pink-text-color">sophomore</span> pursuing <span class="pink-text-color">Computer Science</span> at 
+          VIT Chennai. With a passion for <span class="pink-text-color">baking</span> and a love for tackling new challenges,
+          I'm always eager to learn, explore, and push my limits!
         </div>
       </div>
     </>
