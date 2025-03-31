@@ -14,19 +14,19 @@ const Assignment = () => {
             Assignment 1
           </Link>
           <Link to={"/assignment2"} className="assignment-button">
-            Assingment 2
+            Assignment 2
           </Link>
           <Link to={"/assignment3"} className="assignment-button">
-            Assingment 3
+            Assignment 3
           </Link>
           <Link to={"/assignment4"} className="assignment-button">
-            Assingment 4
+            Assignment 4
           </Link>
           <Link to={"/assignment5"} className="assignment-button">
-            Assingment 5
+            Assignment 5
           </Link>
           <Link to={"/assignment6"} className="assignment-button">
-            Assingment 6
+            Assignment 6
           </Link>
         </div>
       </div>

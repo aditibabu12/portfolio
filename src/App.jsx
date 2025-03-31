@@ -17,7 +17,7 @@ function App() {
         </div>
         <div className="positions-container">
           <div className="position">
-            Android Club President{" "}
+            President, Android Club{" "}
             <span style={{ position: "relative", top: "-2px" }}>👑</span>
           </div>
         </div>
@@ -30,10 +30,9 @@ function App() {
           </a>
         </div>
         <div class="description-text">
-          I'm a Sophomore studying Computer Science Engineering at VIT Chennai.
-          With a passion for <span class="pink-text-color">management</span> and
-          <span class="pink-text-color"> content writing</span> skills, am
-          always eager to learn and work on new challenges.
+          I'm a sophomore pursuing <span class="pink-text-color">Computer Science</span> at 
+          VIT Chennai, with a passion for <span class="pink-text-color">baking</span> and a love for tackling new challenges. 
+          I'm always eager to learn, explore and push my limits!
         </div>
       </div>
     </>
